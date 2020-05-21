@@ -1,0 +1,3 @@
+conda install -c https://conda.binstar.org/menpo opencv3
+conda install -c conda-forge keras
+pip install tensorflow
